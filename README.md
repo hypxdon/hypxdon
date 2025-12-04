@@ -17,6 +17,18 @@ Electronics and Computer Engineering graduate specializing in IoT, hardware syst
 
 ---
 
+## 📄 My CV  
+👉 **Click here to view my CV:**  
+**https://tinyurl.com/kostascv**
+
+<br>
+
+<p align="left">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=https://tinyurl.com/kostascv" 
+       alt="CV QR Code" width="130" height="130">
+</p>
+
+
 ### 🔧 Tech Skills  
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -42,14 +54,3 @@ Electronics and Computer Engineering graduate specializing in IoT, hardware syst
 </p>
 
 ---
-
-## 📄 My CV  
-👉 **Click here to view my CV:**  
-**https://tinyurl.com/kostascv**
-
-<br>
-
-<p align="left">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=https://tinyurl.com/kostascv" 
-       alt="CV QR Code" width="130" height="130">
-</p>
