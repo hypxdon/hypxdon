@@ -25,7 +25,7 @@ Electronics and Computer Engineering graduate specializing in IoT, hardware syst
 
 <p align="left">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=https://tinyurl.com/kostascv" 
-       alt="CV QR Code" width="130" height="130">
+       alt="CV QR Code" width="65" height="65">
 </p>
 
 
