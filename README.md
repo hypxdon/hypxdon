@@ -7,7 +7,7 @@ My name is Konstantinos Aslanidis</h1>
 ---
 
 ### 👨‍💻 About Me  
-Electronics and Computer Engineering graduate specializing in IoT, hardware systems, and embedded devices. My professional experience has been crucial in honing essential practical skills in hardware troubleshooting and PC hardware maintenance. I am passionate about hands-on technology and eager to apply my robust technical foundation in an international environment to contribute to innovative electronics development.
+Electronics and Computer Engineering graduate specializing in IoT, hardware systems, and embedded devices. My professional experience has been crucial in honing essential practical skills in hardware troubleshooting and PC hardware maintenance. I am passionate about hands on technology and eager to apply my robust technical foundation in an international environment to contribute to innovative electronics development.
 
 - 🌍 I'm based in **Greece**  
 - ✉️ You can contact me at **aslankon88@gmail.com**  
