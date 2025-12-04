@@ -18,7 +18,7 @@ Electronics and Computer Engineering graduate specializing in IoT, hardware syst
 ---
 
 ## 📄 My CV  
-👉 **Click here to view my CV:**  
+👉 **My CV:**  
 **https://tinyurl.com/kostascv**
 
 <br>
