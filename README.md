@@ -19,10 +19,10 @@ Electronics and Computer Engineering graduate specializing in IoT, hardware syst
 
 ## 📄 My CV  
 👉 **My CV:**  
-**https://tinyurl.com/kostascv**
+**https://tinyurl.com/aslanidiscv**
 <br>
 <p align="left">
-  <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=https://tinyurl.com/kostascv" 
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=130x130&data=https://tinyurl.com/aslanidiscv" 
        alt="CV QR Code" width="65" height="65">
 </p>
 
